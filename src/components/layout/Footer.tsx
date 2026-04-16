@@ -32,7 +32,6 @@ export function Footer() {
     <footer className="bg-secondary text-secondary-foreground">
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-2 md:grid-cols-6 gap-8 lg:gap-12">
-          {/* Brand */}
           <div className="col-span-2">
             <Link to="/" className="flex items-center gap-3 mb-4">
               <div className="w-10 h-10 rounded-xl bg-primary flex items-center justify-center">
@@ -79,7 +78,6 @@ export function Footer() {
             </div>
           </div>
 
-          {/* Product */}
           <div>
             <h4 className="font-semibold mb-4">Product</h4>
             <ul className="space-y-3">
@@ -96,7 +94,6 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Company */}
           <div>
             <h4 className="font-semibold mb-4">Company</h4>
             <ul className="space-y-3">
@@ -113,7 +110,6 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Resources */}
           <div>
             <h4 className="font-semibold mb-4">Resources</h4>
             <ul className="space-y-3">
@@ -130,7 +126,6 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Legal */}
           <div>
             <h4 className="font-semibold mb-4">Legal</h4>
             <ul className="space-y-3">
@@ -150,7 +145,7 @@ export function Footer() {
 
         <div className="border-t border-muted/20 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            © 2024 Agentic AI Nurse. Built for Demo.
+            Agentic AI Nurse demo project.
           </p>
         </div>
       </div>
