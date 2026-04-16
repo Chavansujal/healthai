@@ -17,7 +17,7 @@ class HealthPayload(BaseModel):
     inactivityMinutes: float = Field(..., ge=0)
 
 
-app = FastAPI(title="Agentic AI Nurse ML Service", version="1.0.0")
+app = FastAPI(title="Vitalguard ML Service", version="1.0.0")
 
 
 def generate_training_data(seed: int = 42):

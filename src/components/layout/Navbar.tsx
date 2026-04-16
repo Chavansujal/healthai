@@ -60,12 +60,8 @@ export function Navbar() {
               <Activity className="w-6 h-6 text-primary-foreground" />
             </motion.div>
             <div className="flex flex-col">
-              <span className="font-bold text-lg text-foreground">
-                Agentic AI
-              </span>
-              <span className="text-xs text-primary font-medium -mt-1">
-                Nurse
-              </span>
+              <span className="font-bold text-lg text-foreground">Vitalguard</span>
+              <span className="text-xs text-primary font-medium -mt-1">Care Intelligence</span>
             </div>
           </Link>
 

@@ -38,12 +38,8 @@ export function Footer() {
                 <Activity className="w-6 h-6 text-primary-foreground" />
               </div>
               <div className="flex flex-col">
-                <span className="font-bold text-lg text-secondary-foreground">
-                  Agentic AI
-                </span>
-                <span className="text-xs text-primary font-medium -mt-1">
-                  Nurse
-                </span>
+                <span className="font-bold text-lg text-secondary-foreground">Vitalguard</span>
+                <span className="text-xs text-primary font-medium -mt-1">Care Intelligence</span>
               </div>
             </Link>
             <p className="text-muted-foreground text-sm max-w-xs mb-6">
@@ -145,7 +141,7 @@ export function Footer() {
 
         <div className="border-t border-muted/20 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-muted-foreground text-sm">
-            Agentic AI Nurse demo project.
+            Vitalguard demo project.
           </p>
         </div>
       </div>

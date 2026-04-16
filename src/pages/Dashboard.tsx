@@ -328,7 +328,7 @@ export default function Dashboard() {
                   Smartwatch monitoring workspace
                 </motion.div>
                 <h1 className="text-3xl font-bold text-foreground sm:text-4xl">
-                  Agentic AI Nurse Command Center
+                  Vitalguard Command Center
                 </h1>
                 <p className="mt-2 max-w-3xl text-muted-foreground">
                   Simulated wearable data flows into risk prediction, anomaly detection, and an

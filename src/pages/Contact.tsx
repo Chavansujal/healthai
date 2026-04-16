@@ -134,7 +134,7 @@ export default function Contact() {
                 Request a Demo
               </h1>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                See how Agentic AI Nurse can transform your healthcare organization's
+                See how Vitalguard can transform your healthcare organization's
                 patient monitoring and care coordination.
               </p>
             </motion.div>
@@ -165,10 +165,10 @@ export default function Contact() {
                     <div>
                       <div className="font-medium text-foreground">Email</div>
                       <a
-                        href="mailto:demo@agenticnurse.ai"
+                        href="mailto:demo@vitalguard.ai"
                         className="text-muted-foreground hover:text-primary transition-colors"
                       >
-                        demo@agenticnurse.ai
+                        demo@vitalguard.ai
                       </a>
                     </div>
                   </div>
@@ -312,7 +312,7 @@ export default function Contact() {
                       name="message"
                       value={formData.message}
                       onChange={handleChange}
-                      placeholder="Tell us about your healthcare organization and how you'd like to use Agentic AI Nurse..."
+                      placeholder="Tell us about your healthcare organization and how you'd like to use Vitalguard..."
                       rows={5}
                       className={errors.message ? "border-destructive" : ""}
                     />

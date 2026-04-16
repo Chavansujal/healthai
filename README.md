@@ -1,6 +1,6 @@
-# Agentic AI Nurse
+# Vitalguard
 
-Agentic AI Nurse is a full-stack healthcare monitoring prototype that combines smartwatch-style vitals, MongoDB persistence, machine-learning risk prediction, anomaly detection, and a modular agent decision engine.
+Vitalguard is a full-stack healthcare monitoring prototype that combines smartwatch-style vitals, MongoDB persistence, machine-learning risk prediction, anomaly detection, and a modular agent decision engine.
 
 ## System Flow
 
